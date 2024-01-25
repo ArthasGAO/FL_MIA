@@ -1,7 +1,7 @@
 Learning: CFL
 Topology: None
 Num_clients: 2
-Round: 2
+Round: 10
 Dataset: Mnist
 Model: mlp
 iid: 0
