@@ -1,0 +1,9 @@
+Learning: CFL
+Topology: None
+Num_clients: 2
+Round: 2
+Dataset: Mnist
+Model: mlp
+iid: 0
+Attack: None
+batch: 128
